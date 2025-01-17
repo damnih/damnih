@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```python
+
+             python 
+
+  0:05 ━❍──────────────── 2:58
+      ↻     ⊲  Ⅱ  ⊳     ↺
+
+```
+
+
+```python
+╔═══════꒰ contact ꒱═══════╗
+
+    (+82) 010-9600-8005
+
+╚══════════════════════════╝
+```
