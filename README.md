@@ -1,4 +1,4 @@
-## Hi there 👋
+## Starting... 
 
 <!--
 **damnih/damnih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,22 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```python
-                                            ╔═══════꒰ contact ꒱═══════╗
-             python                         
-                                                 (+82) 010-9600-8005
-  0:05 ━❍──────────────── 2:58                       
+```
+             python                         ╔═══════꒰ contact ꒱═══════╗
+                                      
+  0:05 ━❍──────────────── 2:58                  (+82) 010-9600-8005
+                         
       ↻     ⊲  Ⅱ  ⊳     ↺                 ╚══════════════════════════╝
-
 ```
 
-
-```python
-
-
-
-
-
-
-
-```
